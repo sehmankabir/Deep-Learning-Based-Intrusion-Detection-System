@@ -86,7 +86,7 @@ Deploy the model in a real-time cybersecurity environment.
 
 Contributors
 
-[Your Name] – Research, Implementation, and Documentation.
+Sehman Kabir – Research, Implementation, and Documentation.
 
 License
 
